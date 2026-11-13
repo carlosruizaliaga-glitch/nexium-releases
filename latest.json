@@ -1,0 +1,15 @@
+{
+  "version": "0.7.2",
+  "notes": "Sincronización: aviso si el cortafuegos de Windows bloquea a Nexium (con los comandos para arreglarlo), opción de mantenerla activa en Android con la app en segundo plano y resumen más completo. Arreglo de la ✕ en Ajustes del móvil.",
+  "pub_date": "2026-11-13T18:50:28.422Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTc2MvSThjdXJBb21FWVRJUDVobThIN1hOVW5od1gyTmtTcUx1WU9DdjJyeWxPbU5VRURvY1IxWVNxOWIyUkNXQjNKbStoWUhrWDlWWXQ3Z1FiUjhnTHFFSjViTUV5VmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTk1NTQzCWZpbGU6TmV4aXVtXzAuNy4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMgowb2VYNVVnN2pJbGdqdHdvcnBIaXJ1V1lXK2dqMHd6REdWeUM5NEMrRWtsME1LemQ1VFZyRWZjMEhvUWw2ZTdCdElrdmxtQ2dHeFZUQ25yalBiWktCUT09Cg==",
+      "url": "https://raw.githubusercontent.com/carlosruizaliaga-glitch/nexium-releases/latest/Nexium_0.7.2_x64-setup.exe"
+    }
+  },
+  "android": {
+    "url": "https://raw.githubusercontent.com/carlosruizaliaga-glitch/nexium-releases/latest/Nexium_0.7.2_android.apk",
+    "sha256": "3112e001d5926a7d61694ac2d722362526435b19d962bd1b779bcfe0166e30c1"
+  }
+}
