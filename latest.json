@@ -1,0 +1,15 @@
+{
+  "version": "0.8.4",
+  "notes": "Apariencia: ocho estilos, mezcla de colores, esquinas y tarjetas a elegir, y los botones siguen el color principal. Móvil: Atrás abre siempre el panel de notas (sin cerrar notas) con apertura más fluida; la barra inferior ya no se queda escondida al cambiar de nota",
+  "pub_date": "2026-11-21T10:21:40.130Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTc2MvSThjdXJBb2d5QmsyWnpyZFEzVVZ1aTNIa21aRjd4MHp3d3VBREVUbmcwU3RnMlRpNHpORHlhWHdsWGY0dEtvc0NTeEYrR3JqNnppcUtRY1NGRzhIZlNDaC9uU0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjU2MjA4CWZpbGU6TmV4aXVtXzAuOC40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjguNAp3Zmh3anVKSzA3T0x0UU1sbTRzczVqVWxISFYwVTVhcVA4dGo4SGp0VVBaZkpTaG15S1FWQzYrN3d2NzZRVC93SVdsaXlDSmk4WEZkMFpGeVNkY3hCUT09Cg==",
+      "url": "https://raw.githubusercontent.com/carlosruizaliaga-glitch/nexium-releases/latest/Nexium_0.8.4_x64-setup.exe"
+    }
+  },
+  "android": {
+    "url": "https://raw.githubusercontent.com/carlosruizaliaga-glitch/nexium-releases/latest/Nexium_0.8.4_android.apk",
+    "sha256": "c63e8999069c0db4f39c41472a99addef4fd980885436c5e2b16a81ce0f456ed"
+  }
+}
