@@ -1,0 +1,15 @@
+{
+  "version": "0.9.1",
+  "notes": "Escribir junto a enlaces sin ver su código, bloques más evidentes con marco y arrastre, deslizar por la nota para cambiar de pestaña y columnas estilo Notion (crear arrastrando, mover, reordenar, vistas previas)",
+  "pub_date": "2026-11-22T14:04:50.182Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTc2MvSThjdXJBb3E0ZlFrWWhiZ1hnRmZpcUZaVUJveFd6YlFYYUowdjhXc3M2OWFmc2NoUnpLcHplcVlMYThvbU9UQnBiZk5qMFBXQm5PMUIxSllRQS9zejdEV2tPclFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzU1OTg5CWZpbGU6TmV4aXVtXzAuOS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMQphQ2t2TnRaclNkaS9UaTlubFpEYjVLVjVYdm4xZmxMN3NXdFZJZFB5cG8vak1JcGk2UzRyZitHOTJFMEMyNTB2OHFoR1RtVTRnSE9HS2FDd2xxVm1BZz09Cg==",
+      "url": "https://raw.githubusercontent.com/carlosruizaliaga-glitch/nexium-releases/latest/Nexium_0.9.1_x64-setup.exe"
+    }
+  },
+  "android": {
+    "url": "https://raw.githubusercontent.com/carlosruizaliaga-glitch/nexium-releases/latest/Nexium_0.9.1_android.apk",
+    "sha256": "60f937c25db18f9d4084649a78dd2fd5df48e26f1831cafd4204fd22a712ff70"
+  }
+}
